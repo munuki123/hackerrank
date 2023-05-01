@@ -1,0 +1,5 @@
+#Display the 3rd and 7yh character from each line of text.
+#Input Format:A text file with  lines of ASCII text only.
+#Output Format:The output should contain  lines. Each line should contain just two characters at the 2nd and 7th the  position of the corresponding input line.
+
+cut -c 3,7
